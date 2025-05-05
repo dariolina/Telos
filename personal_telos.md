@@ -13,7 +13,10 @@ Other sections that aren't those core sections are additional context to support
 - I grew up in Kyiv, Ukraine in the 90-s to a family of military engineers
 - I went to Dominanta school for all 11 years and studied foreign languages (English, French, German)
 - I did my BSc in Cryptography and Applied Math from Kyiv Politechnic Institute on breaking symmetric ciphers
+- Went to Wolfram Summer School in 2015 and got offered a job at Wolfram
 - Dropped out of the Masters for the same KPI degree
+- Worked at Wolfram|Apha and Wolfram Research for 5 years
+- Worked at Autonomys (ex. Subspace) for almost 3 years
 
 ## PROBLEMS
 
