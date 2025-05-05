@@ -10,9 +10,10 @@ Other sections that aren't those core sections are additional context to support
 
 ## HISTORY
 
-- I grew up in the Austin, TX area
-- I went to Mission High School, where I was bullied a decent amount
-- High school is where I met my 2 life-long friends, Doug and Mitchell who are still my friends today
+- I grew up in Kyiv, Ukraine in the 90-s to a family of military engineers
+- I went to Dominanta school for all 11 years and studied foreign languages (English, French, German)
+- I did my BSc in Cryptography and Applied Math from Kyiv Politechnic Institute on breaking symmetric ciphers
+- Dropped out of the Masters for the same KPI degree
 
 ## PROBLEMS
 
